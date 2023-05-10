@@ -7,7 +7,7 @@ This app demonstrates how to create a video player for iOS using Swift. The code
 
 ### Requirements
 
-- Xcode 13.0 or later
+- Xcode 13.0 or later.
 - iOS 15.0 or later
 - Test video file named "test.mp4"
 
